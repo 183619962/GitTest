@@ -4,4 +4,4 @@ Git is free software.
 Ìí¼ÓÒ»ĞĞ 
 dev update
 add 1 & 2
-origin/dev
+origin2/dev
